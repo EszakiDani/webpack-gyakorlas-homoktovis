@@ -1,0 +1,17 @@
+body{  
+    background-image: url("./images/hatter.png");
+}
+
+.cimhatter{
+    background-color: orange;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    height: 150px;
+    padding-top:75px;
+    
+}
+.linkek{
+    text-align: center;
+    
+}
